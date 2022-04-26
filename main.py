@@ -38,7 +38,7 @@ class Checker:
   / _ \(_)__ _______  _______/ / /_  __/__  / /_____ ___    / ___/ /  ___ ____/ /_____ ____  _  __|_  |
  / // / (_-</ __/ _ \/ __/ _  /   / / / _ \/  '_/ -_) _ \  / /__/ _ \/ -_) __/  '_/ -_) __/ | |/ / __/ 
 /____/_/___/\__/\___/_/  \_,_/   /_/  \___/_/\_\\__/_//_/  \___/_//_/\__/\__/_/\_\\__/_/    |___/____/ 
-                                                                                           {Fore.CYAN}by Jad
+                                                                                           {Fore.CYAN}by guffy shared my jad
 {Fore.RESET} 
 
 Telegram Bot with same functionality: {Fore.CYAN}https://t.me/Discord_Token_Checker_bot{Fore.RESET}
